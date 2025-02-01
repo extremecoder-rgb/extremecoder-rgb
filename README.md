@@ -63,5 +63,5 @@ Currently, I don't have any blog posts, but stay tuned for updates!
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-extremecoder--rgb-black?style=flat&logo=github)](https://github.com/extremecoder-rgb)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-extremecoder--rgb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/extremecoder-rgb/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-extremecoder--rgb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhranil-mondal-537433318/)  
 Feel free to reach out to me through any of the platforms above!
