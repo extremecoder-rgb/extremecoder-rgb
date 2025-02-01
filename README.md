@@ -13,7 +13,7 @@ JavaScript,React,Node.js,MERN,Flutter,HTML,CSS,TypeScript,Express.js,Git,GitHub,
 ## Top Projects
 
 - [vidChain](https://github.com/extremecoder-rgb/vidChain) 
-  **Description:** A video streaming platform built using the MERN stack. 
+  **Description:** A web3 based Social media dApp 
   **Stars:** 0 
   **Language:** JavaScript 
   **Forks:** 0 
