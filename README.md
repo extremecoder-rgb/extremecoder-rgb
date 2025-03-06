@@ -8,7 +8,7 @@ I am flexible and  proficient in any web development and app development framewo
 
 ## Skills & Technologies
 
-JavaScript,React,Node.js,MERN,Flutter,HTML,CSS,TypeScript,Express.js,Git,GitHub,Docker,PostgreSQL,MongoDB,REST APIs, GraphQL, Redux, Tailwind CSS, Next.js, Firebase, WebSocket, Material-UI, Socket.IO, Axios, Solana, web3, Ethereum, hardhat, Python, Java, C , C++, C#, Kubernetes
+JavaScript,React,Node.js,MERN,HTML,CSS,TypeScript,Express.js,Git,GitHub,PostgreSQL,MongoDB,REST APIs, GraphQL, Redux, Tailwind CSS, Next.js, Firebase, WebSocket, Material-UI, Socket.IO, Axios, Solana, web3, Ethereum, hardhat, Python, Java, C , C++
 
 ## Top Projects
 
