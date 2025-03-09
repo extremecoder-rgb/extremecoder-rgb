@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MediGuru**
 
-- 🌱 I’m currently learning **Pytorch,TypeScript**
+- 🌱 I’m currently learning **Pytorch,Tensorflow**
 
 - 👯 I’m looking to collaborate on **MediGuru**
 
