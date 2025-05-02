@@ -5,17 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=extremecoder-rgb" alt="extremecoder-rgb" /></a> </p>
 
-- 🔭 I’m currently working on **MediGuru**
-
-- 🌱 I’m currently learning **Pytorch,Tensorflow**
-
-- 👯 I’m looking to collaborate on **MediGuru**
-
-- 🤝 I’m looking for help with **MediGuru**
-
-- 💬 Ask me about **react,gsap,threejs**
-
-- 📫 How to reach me **hsuswiowkskow@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
