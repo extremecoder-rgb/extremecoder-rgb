@@ -1,7 +1,7 @@
 ![Demo](https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4OTU4NjgsIm5iZiI6MTc0Nzg5NTU2OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDA2MzI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmODE5ZDQ1NWViMTNmYWY0YmM5OGU0Mjg3OGEyYzc4NDljMmYwZTgzODRhMzZiOThmZDc1OTk0YmRjNDNlNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._EtH2XVo0oQpckhyK6zpXQu-xl5Tdb1nSxo5JeF9a9c)
 
 
-# 💫 About Me:
+# 💫 About Me: ![Demo](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4OTU4NjgsIm5iZiI6MTc0Nzg5NTU2OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDA2MzI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiMmI0YzA5ZmY1NjhjNDc3OGMwNTk2YmRmNDJmMjNhMGU3ODc2ZDZhM2JiMzk4ODI0YzExYmYxOWZmODU4MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jWmrbGRWc1BOFP-TR3_ENv246Vs_dCyIQbb9wTJTXpw)
 I am not just a coder rather I am a builder and I love to build tools 
 
 ![Demo](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
@@ -18,7 +18,7 @@ I am not just a coder rather I am a builder and I love to build tools
 ![](https://nirzak-streak-stats.vercel.app/?user=extremecoder-rgb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=extremecoder-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -27,4 +27,3 @@ I am not just a coder rather I am a builder and I love to build tools
 ---
 [![](https://visitcount.itsvg.in/api?id=extremecoder-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
