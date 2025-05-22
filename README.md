@@ -9,7 +9,7 @@ I am not just a coder rather I am a builder and I love to build tools
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-mondal-537433318) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Subhranil500) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lowkey001-d6w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsuswiowkskow@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-mondal-537433318) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Subhranil500) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lowkey001-d6w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsuswiowkskow@gmail.com)   </a>&ensp; <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG"/></a> 
 
 
 <h1 align="center">💻 Tech Stack</h1>
