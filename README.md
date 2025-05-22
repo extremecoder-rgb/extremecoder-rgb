@@ -12,7 +12,7 @@ I am not just a coder rather I am a builder and I love to build tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-mondal-537433318) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Subhranil500) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lowkey001-d6w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsuswiowkskow@gmail.com) 
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="text-align: center; max-width: 1000px; margin: auto;">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
